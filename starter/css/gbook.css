@@ -1,0 +1,30 @@
+td 
+{
+	vertical-align: top;
+	padding: 10px;
+}
+
+.dispnama
+{
+	font-weight: bold;
+	text-align: right;
+}
+
+.dispmail
+{
+	color: #00f;
+	font-family: 'Arial Narrow', Verdana;
+	text-align: right;
+	font-size: small; 
+}
+
+.disptgl
+{
+	font-style: italic;
+	text-align: right;
+}
+
+.dispmess
+{
+	font-style: italic;
+}
