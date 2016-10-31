@@ -27,7 +27,7 @@ firebase version
 
 ## Update 31/10/16
 * Pengelompokan folder **starter** dan **built 161030**
-** Isi folder **starter** adalah persiapan web front-end sebelum ditambahkan utilitas Firebase 
-** Isi folder **built 161030** adalah contoh yang telah dikembangkan dan diuji-coba bersama dalam pertemuan ke-6 Talent Dev 1 Tech tanggal 30/10/2016
-* hasil uji coba sudah dikembangkan dengan kemungkinan mendefinisikan sendiri key untuk child baru pada data Firebase (lihat file gbook.js)
+  * Isi folder **starter** adalah persiapan web front-end sebelum ditambahkan utilitas Firebase 
+  * Isi folder **built 161030** adalah contoh yang telah dikembangkan dan diuji-coba bersama dalam pertemuan ke-6 Talent Dev 1 Tech tanggal 30/10/2016
+* hasil uji coba sudah dikembangkan dengan kemungkinan mendefinisikan sendiri ***key*** untuk child baru pada data Firebase (lihat file **gbook.js**)
 * Belum dicoba jika menggunakan nama sebagai key dan ada pemasukan ulang nama yang sama
